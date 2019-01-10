@@ -302,6 +302,7 @@
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
+				<Item Name="Flatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Flatten Pixmap.vi"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -313,6 +314,7 @@
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
+				<Item Name="IMAQ ArrayToImage" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ ArrayToImage"/>
 				<Item Name="IMAQ ColorImageToArray" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ ColorImageToArray"/>
 				<Item Name="IMAQ Copy" Type="VI" URL="/&lt;vilib&gt;/vision/Management.llb/IMAQ Copy"/>
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
@@ -409,6 +411,7 @@
 			<Item Name="create Volume Pattern.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/create Volume Pattern.vi"/>
 			<Item Name="Data 2D Export Format Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Data 2D Export Format Selection.ctl"/>
 			<Item Name="Data Analyzation Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Data Analyzation Selection.ctl"/>
+			<Item Name="data manager action.ctl" Type="VI" URL="../../../../../Users/BoasLab/Documents/stephan/general code/data manager action.ctl"/>
 			<Item Name="Device Camera Preset Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Device Camera Preset Selection.ctl"/>
 			<Item Name="display Data 1D.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/display Data 1D.vi"/>
 			<Item Name="display Data 2D.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/display Data 2D.vi"/>
@@ -444,6 +447,7 @@
 			<Item Name="Probe Parameter Int Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Probe Parameter Int Selection.ctl"/>
 			<Item Name="Processing Flag Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Processing Flag Selection.ctl"/>
 			<Item Name="Processing Parameter Int Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Processing Parameter Int Selection.ctl"/>
+			<Item Name="Queue Manager Actions.ctl" Type="VI" URL="../../../../SerialSectOCT_1217/SerialSectOCT/Software/General/Controls/Queue Manager Actions.ctl"/>
 			<Item Name="Raw Data Export Format Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Raw Data Export Format Selection.ctl"/>
 			<Item Name="set Apodized Spectrum Output.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Apodized Spectrum Output.vi"/>
 			<Item Name="set Calibration.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Calibration.vi"/>
@@ -463,7 +467,7 @@
 			<Item Name="SpectralRadar.dll" Type="Document" URL="SpectralRadar.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="SpectralRadar.dll" Type="Document" URL="../../../../../../../Program Files/Thorlabs/SpectralRadar/DLL/SpectralRadar.dll"/>
+			<Item Name="SpectralRadar.dll" Type="Document" URL="../../../../../Program Files/Thorlabs/SpectralRadar/DLL/SpectralRadar.dll"/>
 			<Item Name="start Measurement.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/start Measurement.vi"/>
 			<Item Name="stop Measurement.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/stop Measurement.vi"/>
 			<Item Name="Thorlabs.MotionControl.Controls" Type="Document" URL="Thorlabs.MotionControl.Controls">
@@ -478,6 +482,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll" Type="Document" URL="../Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll"/>
+			<Item Name="tictock.vi" Type="VI" URL="../../../../../Users/BoasLab/Documents/stephan/general code/tictock.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
