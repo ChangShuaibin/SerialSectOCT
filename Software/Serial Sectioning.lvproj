@@ -302,7 +302,6 @@
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
-				<Item Name="Flatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Flatten Pixmap.vi"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -323,6 +322,13 @@
 				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
 				<Item Name="IMAQ ReadFile" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ ReadFile"/>
 				<Item Name="IMAQ SetImageSize" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ SetImageSize"/>
+				<Item Name="IMAQ Write BMP File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write BMP File 2"/>
+				<Item Name="IMAQ Write File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write File 2"/>
+				<Item Name="IMAQ Write Image And Vision Info File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write Image And Vision Info File 2"/>
+				<Item Name="IMAQ Write JPEG File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write JPEG File 2"/>
+				<Item Name="IMAQ Write JPEG2000 File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write JPEG2000 File 2"/>
+				<Item Name="IMAQ Write PNG File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write PNG File 2"/>
+				<Item Name="IMAQ Write TIFF File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write TIFF File 2"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LV3DPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LV3DPointTypeDef.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
@@ -411,7 +417,6 @@
 			<Item Name="create Volume Pattern.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/create Volume Pattern.vi"/>
 			<Item Name="Data 2D Export Format Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Data 2D Export Format Selection.ctl"/>
 			<Item Name="Data Analyzation Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Data Analyzation Selection.ctl"/>
-			<Item Name="data manager action.ctl" Type="VI" URL="../../../../../Users/BoasLab/Documents/stephan/general code/data manager action.ctl"/>
 			<Item Name="Device Camera Preset Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Device Camera Preset Selection.ctl"/>
 			<Item Name="display Data 1D.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/display Data 1D.vi"/>
 			<Item Name="display Data 2D.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/display Data 2D.vi"/>
@@ -447,7 +452,6 @@
 			<Item Name="Probe Parameter Int Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Probe Parameter Int Selection.ctl"/>
 			<Item Name="Processing Flag Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Processing Flag Selection.ctl"/>
 			<Item Name="Processing Parameter Int Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Processing Parameter Int Selection.ctl"/>
-			<Item Name="Queue Manager Actions.ctl" Type="VI" URL="../../../../SerialSectOCT_1217/SerialSectOCT/Software/General/Controls/Queue Manager Actions.ctl"/>
 			<Item Name="Raw Data Export Format Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Raw Data Export Format Selection.ctl"/>
 			<Item Name="set Apodized Spectrum Output.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Apodized Spectrum Output.vi"/>
 			<Item Name="set Calibration.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Calibration.vi"/>
@@ -467,7 +471,7 @@
 			<Item Name="SpectralRadar.dll" Type="Document" URL="SpectralRadar.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="SpectralRadar.dll" Type="Document" URL="../../../../../Program Files/Thorlabs/SpectralRadar/DLL/SpectralRadar.dll"/>
+			<Item Name="SpectralRadar.dll" Type="Document" URL="../../../../../../../Program Files/Thorlabs/SpectralRadar/DLL/SpectralRadar.dll"/>
 			<Item Name="start Measurement.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/start Measurement.vi"/>
 			<Item Name="stop Measurement.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/stop Measurement.vi"/>
 			<Item Name="Thorlabs.MotionControl.Controls" Type="Document" URL="Thorlabs.MotionControl.Controls">
@@ -482,7 +486,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll" Type="Document" URL="../Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll"/>
-			<Item Name="tictock.vi" Type="VI" URL="../../../../../Users/BoasLab/Documents/stephan/general code/tictock.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
