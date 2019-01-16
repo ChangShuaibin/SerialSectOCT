@@ -423,6 +423,8 @@
 			<Item Name="ATSApi.dll" Type="Document" URL="ATSApi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Bytes to long word.vi" Type="VI" URL="../Third Party Code/Bytes to long word.vi"/>
+			<Item Name="Bytes to word.vi" Type="VI" URL="../Third Party Code/Bytes to word.vi"/>
 			<Item Name="Calibration Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Calibration Selection.ctl"/>
 			<Item Name="clear Complex Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/clear Complex Data.vi"/>
 			<Item Name="clear Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/clear Data.vi"/>
@@ -442,6 +444,7 @@
 			<Item Name="CONEX-CC Set Positive Software Limit v2.vi" Type="VI" URL="../Hardware/Table Stage/CONEX/CONEX/CONEX-CC/CONEX-CC.llb/CONEX-CC Set Positive Software Limit v2.vi"/>
 			<Item Name="CONEX-CC Stop Motion v2.vi" Type="VI" URL="../Hardware/Table Stage/CONEX/CONEX/CONEX-CC/CONEX-CC.llb/CONEX-CC Stop Motion v2.vi"/>
 			<Item Name="Connect Newport Instrument_edit.vi" Type="VI" URL="../Hardware/Table Stage/CONEX/CONEX/CONEX-General/Connect Newport Instrument_edit.vi"/>
+			<Item Name="Convert I64 to U32 with error if overflow.vi" Type="VI" URL="../Third Party Code/Convert I64 to U32 with error if overflow.vi"/>
 			<Item Name="create B-Scan Pattern.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/create B-Scan Pattern.vi"/>
 			<Item Name="create B-Scan Stack Pattern.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/create B-Scan Stack Pattern.vi"/>
 			<Item Name="create Complex Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/create Complex Data.vi"/>
@@ -463,6 +466,7 @@
 			<Item Name="export Data 2D.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/export Data 2D.vi"/>
 			<Item Name="export Raw Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/export Raw Data.vi"/>
 			<Item Name="file type.ctl" Type="VI" URL="../General/actions/file type.ctl"/>
+			<Item Name="Find last IFD.vi" Type="VI" URL="../Third Party Code/Find last IFD.vi"/>
 			<Item Name="get Data Slice Analyzed.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/get Data Slice Analyzed.vi"/>
 			<Item Name="get Data Slice Index.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/get Data Slice Index.vi"/>
 			<Item Name="get Raw Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/get Raw Data.vi"/>
@@ -470,6 +474,7 @@
 			<Item Name="init Full Range.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/init Full Range.vi"/>
 			<Item Name="init Probe.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/init Probe.vi"/>
 			<Item Name="load Calibration.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/load Calibration.vi"/>
+			<Item Name="Long word to bytes.vi" Type="VI" URL="../Third Party Code/Long word to bytes.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="measure Calibration.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/measure Calibration.vi"/>
 			<Item Name="measure Spectra.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/measure Spectra.vi"/>
@@ -491,6 +496,8 @@
 			<Item Name="Processing Parameter Int Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Processing Parameter Int Selection.ctl"/>
 			<Item Name="Queue Manager Actions.ctl" Type="VI" URL="../General/Queue Manager Actions.ctl"/>
 			<Item Name="Raw Data Export Format Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Raw Data Export Format Selection.ctl"/>
+			<Item Name="Read Header.vi" Type="VI" URL="../Third Party Code/Read Header.vi"/>
+			<Item Name="Read Image File Directory.vi" Type="VI" URL="../Third Party Code/Read Image File Directory.vi"/>
 			<Item Name="set Apodized Spectrum Output.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Apodized Spectrum Output.vi"/>
 			<Item Name="set Calibration.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Calibration.vi"/>
 			<Item Name="set Complex Scan Output.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Complex Scan Output.vi"/>
@@ -506,6 +513,7 @@
 			<Item Name="set Scan Output.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Scan Output.vi"/>
 			<Item Name="set Spectrum Output.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Spectrum Output.vi"/>
 			<Item Name="shift Scan Pattern.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/shift Scan Pattern.vi"/>
+			<Item Name="Shift Tag Offsets.vi" Type="VI" URL="../Third Party Code/Shift Tag Offsets.vi"/>
 			<Item Name="SpectralRadar.dll" Type="Document" URL="SpectralRadar.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -524,6 +532,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll" Type="Document" URL="../Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll"/>
+			<Item Name="Tiff reader.lvlib" Type="Library" URL="../Third Party Code/Tiff reader.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
