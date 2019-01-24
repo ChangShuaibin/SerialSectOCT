@@ -418,7 +418,6 @@
 			<Item Name="clear Scan Pattern.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/clear Scan Pattern.vi"/>
 			<Item Name="close Device.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/close Device.vi"/>
 			<Item Name="close Probe.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/close Probe.vi"/>
-			<Item Name="cluster_Axsun.ctl" Type="VI" URL="../../../../serial sectioning OCT/Axsun/cluster_Axsun.ctl"/>
 			<Item Name="compute Linear K Raw Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/compute Linear K Raw Data.vi"/>
 			<Item Name="CONEX-CC Absolute Move v2.vi" Type="VI" URL="../Hardware/Table Stage/CONEX/CONEX/CONEX-CC/CONEX-CC.llb/CONEX-CC Absolute Move v2.vi"/>
 			<Item Name="CONEX-CC Get Current Position v2.vi" Type="VI" URL="../Hardware/Table Stage/CONEX/CONEX/CONEX-CC/CONEX-CC.llb/CONEX-CC Get Current Position v2.vi"/>
