@@ -51,7 +51,6 @@
 			<Item Name="MainGUI.vi" Type="VI" URL="../MainGUI.vi"/>
 			<Item Name="SettingsGUI.vi" Type="VI" URL="../SettingsGUI.vi"/>
 		</Item>
-		<Item Name="test galvo.vi" Type="VI" URL="../General/Hardware/Galvo/test galvo.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3D Plot Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/3D Plot Datatype/3D Plot Datatype.lvclass"/>
@@ -409,7 +408,6 @@
 			<Item Name="ATSApi.dll" Type="Document" URL="ATSApi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="AxsunOCTControl.dll" Type="Document" URL="../../../../serial sectioning OCT/Axsun/AxsunOCTControl.dll"/>
 			<Item Name="Calibration Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Calibration Selection.ctl"/>
 			<Item Name="clear Complex Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/clear Complex Data.vi"/>
 			<Item Name="clear Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/clear Data.vi"/>
