@@ -448,9 +448,11 @@
 			<Item Name="export Data 2D.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/export Data 2D.vi"/>
 			<Item Name="export Raw Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/export Raw Data.vi"/>
 			<Item Name="file type.ctl" Type="VI" URL="../General/actions/file type.ctl"/>
+			<Item Name="Generate 2D scan Waveform.vi" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Scan/Generate 2D scan Waveform.vi"/>
 			<Item Name="get Data Slice Analyzed.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/get Data Slice Analyzed.vi"/>
 			<Item Name="get Data Slice Index.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/get Data Slice Index.vi"/>
 			<Item Name="get Raw Data.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/get Raw Data.vi"/>
+			<Item Name="Imaging Parameters.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Controls/Imaging Parameters.ctl"/>
 			<Item Name="init Device.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/init Device.vi"/>
 			<Item Name="init Full Range.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/init Full Range.vi"/>
 			<Item Name="init Probe.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/init Probe.vi"/>
@@ -471,10 +473,12 @@
 			<Item Name="OCTNumerics.dll" Type="Document" URL="OCTNumerics.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Optical Parameters.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Controls/Optical Parameters.ctl"/>
 			<Item Name="Probe Parameter Int Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Probe Parameter Int Selection.ctl"/>
 			<Item Name="Processing Flag Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Processing Flag Selection.ctl"/>
 			<Item Name="Processing Parameter Int Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Processing Parameter Int Selection.ctl"/>
 			<Item Name="Raw Data Export Format Selection.ctl" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/Raw Data Export Format Selection.ctl"/>
+			<Item Name="Scan Direction.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Controls/Scan Direction.ctl"/>
 			<Item Name="set Apodized Spectrum Output.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Apodized Spectrum Output.vi"/>
 			<Item Name="set Calibration.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Calibration.vi"/>
 			<Item Name="set Complex Scan Output.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/set Complex Scan Output.vi"/>
@@ -496,6 +500,7 @@
 			<Item Name="SpectralRadar.dll" Type="Document" URL="../../../../../../../Program Files/Thorlabs/SpectralRadar/DLL/SpectralRadar.dll"/>
 			<Item Name="start Measurement.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/start Measurement.vi"/>
 			<Item Name="stop Measurement.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/stop Measurement.vi"/>
+			<Item Name="System Parameters.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Controls/System Parameters.ctl"/>
 			<Item Name="Thorlabs.MotionControl.Controls" Type="Document" URL="Thorlabs.MotionControl.Controls">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -508,6 +513,10 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll" Type="Document" URL="../Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll"/>
+			<Item Name="Translation Stage Cluster.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/Hardware Mfg/Thorlabs Translation Stages/Controls/Translation Stage Cluster.ctl"/>
+			<Item Name="Translation Stage Parameters.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Controls/Translation Stage Parameters.ctl"/>
+			<Item Name="Translation Stage Types.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Controls/Translation Stage Types.ctl"/>
+			<Item Name="Vibratome Parameters.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Controls/Vibratome Parameters.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
