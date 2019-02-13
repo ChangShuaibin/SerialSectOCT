@@ -497,7 +497,7 @@
 			<Item Name="SpectralRadar.dll" Type="Document" URL="SpectralRadar.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="SpectralRadar.dll" Type="Document" URL="../../../../../../../Program Files/Thorlabs/SpectralRadar/DLL/SpectralRadar.dll"/>
+			<Item Name="SpectralRadar.dll" Type="Document" URL="/C/Program Files/Thorlabs/SpectralRadar/DLL/SpectralRadar.dll"/>
 			<Item Name="start Measurement.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/start Measurement.vi"/>
 			<Item Name="stop Measurement.vi" Type="VI" URL="../Hardware Mfg/Thorlabs OCT/LabVIEW/user.lib/SpectralRadar.llb/stop Measurement.vi"/>
 			<Item Name="System Parameters.ctl" Type="VI" URL="../../../../SerialSectOCT-test/SerialSectOCT/Software/General/Controls/System Parameters.ctl"/>
